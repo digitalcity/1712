@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "id": 2,
+      "body": "react very nice",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "vue 用起来很方便",
+      "postId": 3
+    },
+    {
+      "body": "2222222",
+      "postId": "3",
+      "id": 4
+    },
+    {
+      "body": "22222222222222",
+      "postId": "3",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "git 基础操作"
+    },
+    {
+      "id": 2,
+      "title": "react 基础知识"
+    },
+    {
+      "id": 3,
+      "title": "vue 基础知识"
+    }
+  ]
+}
